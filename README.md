@@ -3,7 +3,7 @@
 ## Soy Docente, Desarrollador y Músico!
 
 - 🔭 Doy clases de Electrónica y Programación en [SitioFácil.com.ar][website]!
-- 🌱 Estoy aprendiendo React y Angular 
+- 🌱 Estoy aprendiendo Git, GitHub, React y Angular
 - 👯 Siempre busco colaborar con otros creadores de contenido
 - 🥅 Objetivo 2020: Contribuir en más proyectos Open Source
 - 🐱 Mascotas: Mi gato se llama Gandalf y mi gatita Pocha 
@@ -35,7 +35,10 @@
 ### Herramientas:
 
 - Visual Studio Code
+- GitHub
 - WordPress
+- Adobe Photoshop
+- Adobe Illustrator
 
 [website]: http://sitiofacil.com.ar
 [twitter]: https://twitter.com/hmiraglio
