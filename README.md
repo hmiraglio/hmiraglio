@@ -8,9 +8,6 @@
 - 🥅 Objetivo 2020: Contribuir en más proyectos Open Source
 - 🐱 Mascotas: Mi gato se llama Gandalf y mi gatita Pocha 
 
-### Spotify 🎧
-[Spotify] (https://open.spotify.com/user/hmiraglio)
-
 ### Redes Sociales 📬
 
 [<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -21,7 +18,7 @@
 
 <br />
 
-### Lenguages:
+### Lenguajes:
 
 - HTML
 - CSS
@@ -37,7 +34,7 @@
 - Visual Studio Code
 - GitHub
 - WordPress
-- Adobe Photoshop
+- Adobe PhotoShop
 - Adobe Illustrator
 
 [website]: http://sitiofacil.com.ar
