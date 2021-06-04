@@ -1,4 +1,4 @@
-### Hola! Me llamo Hernán Miraglio [website] 👋
+### Hola! Me llamo Hernán Miraglio
 ## Soy Docente, Desarrollador Web y Músico.
 
 - 🔭 Doy clases de Programación y Electrónica.
@@ -15,8 +15,6 @@
 [<img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-<br />
-
 ### Lenguajes:
 
 - HTML / CSS
@@ -24,8 +22,6 @@
 - jQuery
 - PHP
 - MySQL
-
-<br />
 
 ### Herramientas:
 
