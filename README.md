@@ -1,11 +1,10 @@
-### Hola! Soy Hernán Miraglio [website] 👋
+### Hola! Me llamo Hernán Miraglio [website] 👋
+## Soy Docente, Desarrollador Web y Músico.
 
-## Soy Docente, Desarrollador y Músico!
-
-- 🔭 Doy clases de Electrónica y Programación en [SitioFácil.com.ar][website]!
-- 🌱 Estoy aprendiendo Git, GitHub, React y Angular
-- 👯 Siempre busco colaborar con otros creadores de contenido
-- 🥅 Objetivo 2020: Contribuir en más proyectos Open Source
+- 🔭 Doy clases de Programación y Electrónica.
+- 🌱 Estoy aprendiendo a usar React y Redux.
+- 👯 Busco colaborar con otros creadores de software y contenido.
+- 🥅 Objetivo 2021: Contribuir en más proyectos Open Source
 - 🐱 Mascotas: Mi gato se llama Gandalf y mi gatita Pocha 
 
 ### Redes Sociales 📬
@@ -20,12 +19,11 @@
 
 ### Lenguajes:
 
-- HTML
-- CSS
+- HTML / CSS
 - JavaScript
 - jQuery
 - PHP
-- SQL / MySQL
+- MySQL
 
 <br />
 
@@ -37,7 +35,7 @@
 - Adobe PhotoShop
 - Adobe Illustrator
 
-[website]: http://sitiofacil.com.ar
+[website]: http://sitiofacil.com.ar (en pleno desarrollo)
 [twitter]: https://twitter.com/hmiraglio
 [youtube]: https://youtube.com/hmiraglio
 [instagram]: https://instagram.com/hernan.miraglio
