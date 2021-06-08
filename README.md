@@ -29,13 +29,13 @@
 - Adobe PhotoShop
 - Adobe Illustrator
 
+<br />
+
 ## 📬 Redes Sociales 
 
 [<img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
 
 [youtube]: https://youtube.com/hmiraglio
 [instagram]: https://instagram.com/hernan.miraglio
