@@ -9,7 +9,7 @@
 
 <br />
 
-## 💬 Lenguajes:
+## 💬 Lenguajes &amp; Frameworkds:
 
 - HTML / CSS
 - JavaScript / React / jQuery
