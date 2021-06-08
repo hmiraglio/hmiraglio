@@ -24,8 +24,8 @@
 - Visual Studio Code
 - Arduino IDE
 - Impresión 3D
-- GitHub
-- WordPress
+- GitHub / Git
+- WordPress / WooCommerce / Elementor
 - Adobe PhotoShop
 - Adobe Illustrator
 
