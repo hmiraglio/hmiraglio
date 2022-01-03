@@ -4,8 +4,7 @@
 - 👨‍🏫 Doy clases de Programación y Electrónica.
 - 📘 Estoy aprendiendo React y Redux.
 - 👯 Busco colaborar con otros creadores de software y contenido.
-- 🎯 Objetivo 2021: Contribuir en más proyectos Open Source 
-- 🐱 Mascotas: Mi gato se llama Gandalf y mi gatita Pocha
+- 🎯 Objetivo 2022: Contribuir en más proyectos Open Source 
 
 <br />
 
