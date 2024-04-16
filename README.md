@@ -1,19 +1,19 @@
 ## Hola! Me llamo Hernán Miraglio
-## Soy Docente, Desarrollador Web y Músico.
+### Docente, Desarrollador de Software, Técnico Electrónico y Músico.
 
 - 👨‍🏫 Doy clases de Programación y Electrónica.
-- 📘 Estoy aprendiendo React y Redux.
+- 📘 Aprendiendo React y Redux.
 - 👯 Busco colaborar con otros creadores de software y contenido.
-- 🎯 Objetivo 2022: Contribuir en más proyectos Open Source 
+- 🎯 Objetivo 2024: Contribuir en más proyectos Open Source 
 
 <br />
 
 ## 💬 Lenguajes &amp; Frameworks:
 
 - HTML / CSS
-- JavaScript / React / jQuery
-- PHP
-- MySQL
+- JavaScript / jQuery / React + Redux
+- Python / PHP
+- MS SQL / MySQL
 - C#
 
 <br />
@@ -32,9 +32,9 @@
 
 ## 📬 Redes Sociales 
 
-[<img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/icons/instagram.svg" />][instagram]
 
 [youtube]: https://youtube.com/hmiraglio
 [instagram]: https://instagram.com/hernan.miraglio
